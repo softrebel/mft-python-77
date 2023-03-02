@@ -37,6 +37,7 @@
   2. تعاریف و تفاوت‌هایinital value, falsy value, zero value
   3. مفهوم Pythonic
   4. مفهوم Clean Code
+  5. نام‌گذاری متغیرها به صورت snake case و camel case
 
   ## نحوه ارسال
 

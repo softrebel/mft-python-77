@@ -2,16 +2,6 @@
 
 # جلسه سوم: حلقه در پایتون
 
-  ## لینک‌های مفید
-
-  </div>
-
-  - [How to Write Pythonic Code](https://towardsdatascience.com/how-to-write-pythonic-code-208ec1513c49)
-  - [Python Naming conventions](https://peps.python.org/pep-0008/#naming-conventions)
-  - [Python Clean Code](https://github.com/zedr/clean-code-python)
-
-
-<div dir="rtl">
 
   ## تمرین
   1. قطعه کدی بسازید که الگوی زیر را چاپ کند
@@ -60,6 +50,8 @@ print(house_of_dragon_count)
 
 ```
 
+3. مثال محاسبه عدد اول جلسه سوم را طوری تغییر دهید که بهینگی خود را حفظ کند اما از break استفاده نکند.
+
 
 ## تمرین‌های پیشرفته
 1. برنامه‌ای بنویسید که n عدد از کاربر بگیرد و میانگین و واریانس آن را حساب کند.
@@ -71,11 +63,9 @@ print(house_of_dragon_count)
 3. برنامه‌ای بنویسید که دو رشته به عنوان ورودی بگیرد و چک کند که رشته اولی داخل رشته دومی موجود است یا نه.
 
   ## تحقیق
-  1. تفاوت data type و data structure
-  2. تعاریف و تفاوت‌هایinital value, falsy value, zero value
-  3. مفهوم Pythonic
-  4. مفهوم Clean Code
-  5. نام‌گذاری متغیرها به صورت snake case و camel case
+  1. لزوم استفاده از break و continue از منظر clean code
+  2. مفهوم Refactor
+  3. عملگرهای bitwise
 
   ## نحوه ارسال
 

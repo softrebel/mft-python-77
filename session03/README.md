@@ -21,7 +21,9 @@
 - Rings of Power
 - House of The Dragon
 - The Last of Us
-برای سادگی، کد زیر را توسعه دهید:
+
+  برای سادگی، کد زیر را توسعه دهید:
+  
 ```python
 comments=[
 'This slow-burn episode of House of The Dragon is Game of Thrones as we know it – for better or worse.',
